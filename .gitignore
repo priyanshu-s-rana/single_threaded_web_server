@@ -1,0 +1,20 @@
+# Build directories and artifacts
+.vscode/
+build/
+build-*/
+out/
+dist/
+target/
+cmake-build-*/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+compile_commands.json
+*.make
+Enhanced_README.md
+
+
+
+
+
