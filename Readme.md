@@ -175,8 +175,6 @@ The server follows a layered, modular architecture pattern:
 port = 8080                 # Server port
 host = "127.0.0.1"         # Bind address
 reuse_address = "false"     # Socket reuse option
-rcv_buffer_size = 65536     # Receive buffer size
-snd_buffer_size = 65536     # Send buffer size
 rcv_timeout = 5             # Receive timeout in seconds
 
 [development]
